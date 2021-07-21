@@ -7,13 +7,9 @@
 /[Ll]ogs/
 
 
-$ git rm Library
-$ git rm Temp
-$ git rm Obj
-$ git rm Build
-$ git rm Builds
-$ git rm Logs
-$ git rm MemoryCaptures
+$ git rm 2D_Bird
+$ git add .
+$ git push origin
 
 # Never ignore Asset meta data
 ![Aa]ssets/**/*.meta
