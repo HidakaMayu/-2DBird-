@@ -6,6 +6,15 @@
 /[Bb]uilds/
 /[Ll]ogs/
 
+
+$ git rm Library
+$ git rm Temp
+$ git rm Obj
+$ git rm Build
+$ git rm Builds
+$ git rm Logs
+$ git rm MemoryCaptures
+
 # Never ignore Asset meta data
 ![Aa]ssets/**/*.meta
 
